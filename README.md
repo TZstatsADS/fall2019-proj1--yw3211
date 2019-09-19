@@ -9,20 +9,20 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: What Make Metal Special? - A Comparasion between Metal and Rock
++ This project is conducted by [Yakun Wang]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: Metal music is a subgenre of rock music. However, in our dataset, these two types of music are well separated. Therefore, I want to explore how Metal is different from regular Rock music and what make Metal special.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
 proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
+????????? lib/
+????????? data/
+????????? doc/
+????????? figs/
+????????? output/
 ```
 
 Please see each subfolder for a README file.
